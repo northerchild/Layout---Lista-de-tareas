@@ -37,7 +37,7 @@
     };
     var comprobarInput = function(){
         tareaInput.className = "";
-        teareaInput.setAttribute("placeholder", "Agrega tus tareas");
+        teareaInput.setAttribute("placeholder", "Agrega tu tarea");
     };
  
     var eleminarTarea = function(){
